@@ -1,9 +1,9 @@
-#🌦️ Projet Hydroclimatique IA
+# 🌦️ Projet Hydroclimatique IA
 
 Ce projet vise à prédire la pluviométrie à partir de données météorologiques historiques en utilisant des techniques d’intelligence artificielle (IA) et d’apprentissage automatique.
 L’objectif principal est de fournir un outil d’aide à la planification agricole et à la gestion des ressources en eau, particulièrement dans les zones à forte variabilité climatique.
 
-#🎯 Objectif
+## 🎯 Objectif
 
 Développer un modèle prédictif basé sur des algorithmes d’IA (ex. LSTM, Random Forest, ou Régression linéaire).
 
@@ -15,7 +15,7 @@ Soutenir les décisions agricoles intelligentes grâce à une approche basée su
 
 Favoriser la durabilité agricole dans le contexte du changement climatique.
 
-#🧩 Aperçu du projet
+### 🧩 Aperçu du projet
 
 Collecte et préparation des données
 
@@ -43,7 +43,7 @@ Sauvegarde du modèle dans le dossier model/.
 
 Interface ou script pour faire des prédictions à partir de nouvelles données météo.
 
-#📂 Structure du projet
+### 📂 Structure du projet
 Projet_Hydroclimatique_IA/
 │
 ├── src/                # Scripts Python pour traitement et modélisation
@@ -53,7 +53,7 @@ Projet_Hydroclimatique_IA/
 ├── requirements.txt    # Librairies Python nécessaires
 └── README.md           # Description du projet
 
-#🧠 Technologies utilisées
+### 🧠 Technologies utilisées
 
 Python 3.10+
 
